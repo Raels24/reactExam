@@ -1,5 +1,6 @@
 # React In-class Exam, October 2025
 
+Raels Santers 20103026
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
@@ -67,8 +68,8 @@ Add your name and student number to the README.md file, as shown below:
 ~~~markdown
 # React In-class Exam, October 2025
 
-Your Name, Student Number
-...
+Raels Santers, 20103026
+
 ~~~
 
 Push your changes to GitHub:
